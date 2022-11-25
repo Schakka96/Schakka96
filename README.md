@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Schakka96
-- 👀 I’m interested in Sustinable Food and Aquaculturw
-- 🌱 I’m currently learning how to use Github and Bash
+- 🌱👀 I’m interested in Sustinable Food and Aquaculture
+- 👀 I’m currently learning how to use Github and Bash
 - 💞️ I’m looking to collaborate on Kaggle Competitions
 - 📫 How to reach me https://www.linkedin.com/in/antonia-fichtbauer-672a301b5/
 
